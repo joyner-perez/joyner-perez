@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joyner-perez
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning SwiftUi
 - 💞️ I’m looking to collaborate on Startups
 - 📫 How to reach me joynerperez1987@gmail.com
 
